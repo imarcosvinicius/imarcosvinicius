@@ -6,16 +6,11 @@
 </div>
 
 <p align="center">Estou sempre por ai resolvedondo problemas com meus conhecimentos tecnológicos <br><br> Sou desenvolvedor de backend com conhecimentos em Java, Kotlin e Spring Boot e as vezes mergulho no front com bootstrap e Angular. Resolver problemas me dá sentido para viver, então estou sempre buscancando conhecimento para superar novos desáfios.</p>&nbsp;
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=imarcosvinicius&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-imarcosvinicius.vercel.app/api/top-langs/?username=imarcosvinicius&show_icons=true&theme=radical&layout=compact" />
- </div>
  
  &nbsp;
  &nbsp;
 
-
+<img src="https://i.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.webp" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ## 🔥 Skills
 
