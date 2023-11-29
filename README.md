@@ -5,7 +5,7 @@
     <summary><h1 style="display: inline-block">Olá, sou o Marcos Vinícius</h1></summary>
 </div>
 
-<p align="center">Estou sempre por ai resolvedondo problemas com meus conhecimentos tecnológicos <br><br> Sou desenvolvedor de backend com conhecimentos em Java, Kotlin e Spring Boot e as vezes mergulho no front com bootstrap e Angular. Resolver problemas me dá sentido para viver, então estou sempre buscancando conhecimento para superar novos desáfios.</p>&nbsp;
+<p align="center">Estou sempre por ai resolvedondo problemas com meus conhecimentos tecnológicos <br><br> Desenvolvedor backend com conhecimentos em Java, Kotlin e Spring Boot e as vezes mergulho no front com bootstrap e Angular. Resolver problemas me dá sentido para viver, então estou sempre buscancando conhecimento para superar novos desáfios.</p>&nbsp;
  
  &nbsp;
  &nbsp;
@@ -32,11 +32,11 @@
 &nbsp;
 &nbsp;
 
-## Contacts:
+## Conecte-se comigo
 
-<div> 
-<a href="https://www.linkedin.com/in/imarcosvinicius/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/imarcosvinicius)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:imarcosvinicius@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/imarcosvinicius/)
  
 
   
