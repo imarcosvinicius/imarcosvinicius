@@ -10,23 +10,27 @@
  &nbsp;
  &nbsp;
 
-<img src="https://i.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.webp" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://i.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.webp" min-width="280px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 ## 🔥 Skills
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java circle logo" style="height: 80px; width:80px;"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin circle logo" style="height: 80px; width:80px;"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring circle logo" style="height: 80px; width:80px;"/>&nbsp;
-<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_macos_bigsur_icon_190061.png" alt="Intelliji circle logo" style="height: 80px; width:80px;"/>&nbsp;
-<img src="https://icons.veryicon.com/png/System/Simply%20Styled/Eclipse.png" alt="Eclipse circle logo" style="height: 80px; width:80px;"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL circle logo" style="height: 80px; width:80px;"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL circle logo" style="height: 80px; width:80px;"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu circle logo" style="height: 80px; width:80px;"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker circle logo" style="height: 80px; width:80px;"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS circle logo" style="height: 80px; width:80px;"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap circle logo" style="height: 80px; width:80px;"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Vscode circle logo" style="height: 80px; width:80px;"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="AWS circle logo" style="height: 80px; width:80px;"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java circle logo" style="height: 50px; width:50px;"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin circle logo" style="height: 50px; width:50px;"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" alt="Android circle logo" style="height: 50px; width:50px;"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring circle logo" style="height: 50px; width:50px;"/>&nbsp;
+<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_macos_bigsur_icon_190061.png" alt="Intelliji circle logo" style="height: 50px; width:50px;"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio circle logo" style="height: 50px; width:50px;"/>&nbsp;
+<img src="https://icons.veryicon.com/png/System/Simply%20Styled/Eclipse.png" alt="Eclipse circle logo" style="height: 50px; width:50px;"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL circle logo" style="height: 50px; width:50px;"/>&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL circle logo" style="height: 50px; width:50px;"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu circle logo" style="height: 50px; width:50px;"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker circle logo" style="height: 50px; width:50px;"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS circle logo" style="height: 50px; width:50px;"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap circle logo" style="height: 50px; width:50px;"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular circle logo" style="height: 50px; width:50px;"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Vscode circle logo" style="height: 50px; width:50px;"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="AWS circle logo" style="height: 50px; width:50px;"/>&nbsp;
 
 
 &nbsp;
