@@ -5,7 +5,7 @@
     <summary><h1 style="display: inline-block">Olá, sou o Marcos Vinícius</h1></summary>
 </div>
 
-<p align="center">Estou sempre por ai resolvedondo problemas com meus conhecimentos tecnológicos <br><br> Desenvolvedor backend com conhecimentos em Java, Kotlin e Spring Boot e as vezes mergulho no front com bootstrap e Angular. Resolver problemas me dá sentido para viver, então estou sempre buscancando conhecimento para superar novos desáfios.</p>&nbsp;
+<p align="center">Estou sempre por ai resolvedondo problemas com meus conhecimentos tecnológicos <br><br> Desenvolvedor backend com conhecimentos em Java, Kotlin, Servlet, Spring Boot e Desenvolvimento nativo Android. Resolver problemas e me desafiar me dá sentido para viver, então estou sempre buscancando conhecimento para superar novos desáfios.</p>&nbsp;
  
  &nbsp;
  &nbsp;
@@ -22,15 +22,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio circle logo" style="height: 50px; width:50px;"/>&nbsp;
 <img src="https://icons.veryicon.com/png/System/Simply%20Styled/Eclipse.png" alt="Eclipse circle logo" style="height: 50px; width:50px;"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL circle logo" style="height: 50px; width:50px;"/>&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL circle logo" style="height: 50px; width:50px;"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu circle logo" style="height: 50px; width:50px;"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker circle logo" style="height: 50px; width:50px;"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS circle logo" style="height: 50px; width:50px;"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap circle logo" style="height: 50px; width:50px;"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular circle logo" style="height: 50px; width:50px;"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Vscode circle logo" style="height: 50px; width:50px;"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="AWS circle logo" style="height: 50px; width:50px;"/>&nbsp;
 
 
 &nbsp;
