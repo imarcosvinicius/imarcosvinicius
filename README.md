@@ -5,7 +5,11 @@
     <summary><h1 style="display: inline-block">Olá, sou o Marcos Vinícius</h1></summary>
 </div>
 
-<p align="center">Estou sempre por ai resolvedondo problemas com meus conhecimentos tecnológicos <br><br> Desenvolvedor backend com conhecimentos em Java, Kotlin, Servlet, Spring Boot e Desenvolvimento nativo Android. Resolver problemas e me desafiar me dá sentido para viver, então estou sempre buscancando conhecimento para superar novos desáfios.</p>&nbsp;
+<p align="center">💻 Desenvolvedor Backend | Java | Kotlin | Spring | PostgreSQL | Docker
+
+Apaixonado por resolver problemas através da tecnologia. Tenho experiência no desenvolvimento de aplicações backend utilizando Java, Kotlin, Spring Framework, Spring Boot, PostgreSQL, Docker e outras tecnologias do ecossistema Java.
+
+Sou movido por desafios e estou em constante evolução, sempre buscando aprimorar minhas habilidades para entregar soluções robustas, escaláveis e de alta qualidade.</p>&nbsp;
  
  &nbsp;
  &nbsp;
@@ -16,12 +20,12 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java circle logo" style="height: 50px; width:50px;"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin circle logo" style="height: 50px; width:50px;"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" alt="Android circle logo" style="height: 50px; width:50px;"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring circle logo" style="height: 50px; width:50px;"/>&nbsp;
 <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_macos_bigsur_icon_190061.png" alt="Intelliji circle logo" style="height: 50px; width:50px;"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio circle logo" style="height: 50px; width:50px;"/>&nbsp;
 <img src="https://icons.veryicon.com/png/System/Simply%20Styled/Eclipse.png" alt="Eclipse circle logo" style="height: 50px; width:50px;"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL circle logo" style="height: 50px; width:50px;"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VScode logo" style="height: 45px; width:45px;"/>&nbsp;
+          
 
 
 &nbsp;
