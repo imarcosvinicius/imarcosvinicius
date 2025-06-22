@@ -5,7 +5,7 @@
     <summary><h1 style="display: inline-block">Olá, sou o Marcos Vinícius</h1></summary>
 </div>
 
-<p align="center">💻 Desenvolvedor Backend | Java | Kotlin | Spring | PostgreSQL | Docker
+<p align="center">💻 Desenvolvedor de software | Java | Kotlin | Spring | PostgreSQL | Docker
 
 Apaixonado por resolver problemas através da tecnologia. Tenho experiência no desenvolvimento de aplicações backend utilizando Java, Kotlin, Spring Framework, Spring Boot, PostgreSQL, Docker e outras tecnologias do ecossistema Java.
 
