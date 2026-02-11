@@ -1,40 +1,94 @@
+# Olá, sou o Marcos Vinícius 👋
 
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Olá, sou o Marcos Vinícius</h1></summary>
-</div>
+**Desenvolvedor de Software | Java | Kotlin | Spring Boot | API REST | Docker | GCP**
 
-<p align="center">💻 Desenvolvedor de software | Java | Kotlin | Spring | PostgreSQL | Docker
+Desenvolvedor de Software com experiência em produção e visão de negócio. Atuo no desenvolvimento de aplicações backend robustas, escaláveis e de alta qualidade utilizando Java, Kotlin, Spring Boot e tecnologias do ecossistema Java.
 
-Apaixonado por resolver problemas através da tecnologia. Tenho experiência no desenvolvimento de aplicações backend utilizando Java, Kotlin, Spring Framework, Spring Boot, PostgreSQL, Docker e outras tecnologias do ecossistema Java.
+Atualmente sou **Co-fundador & Arquiteto de Software** na [Evvo Software](https://github.com/evvosoftware), onde lidero a arquitetura de um SaaS de gestão financeira para PMEs com Kotlin, Spring Boot 3.5 e OAuth2/OIDC *(projeto em desenvolvimento)*. Anteriormente atuei como **Desenvolvedor Java/Mobile** na Berrante, desenvolvendo sistemas web e mobile para gestão pecuária com infraestrutura na GCP.
 
-Sou movido por desafios e estou em constante evolução, sempre buscando aprimorar minhas habilidades para entregar soluções robustas, escaláveis e de alta qualidade.</p>&nbsp;
- 
- &nbsp;
- &nbsp;
+📍 Goiânia, GO — Aberto a oportunidades **presenciais ou remotas**
 
-<img src="https://i.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.webp" min-width="280px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+---
 
-## 🔥 Skills
+## 🛠️ Stack Principal
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java circle logo" style="height: 50px; width:50px;"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin circle logo" style="height: 50px; width:50px;"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring circle logo" style="height: 50px; width:50px;"/>&nbsp;
-<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_macos_bigsur_icon_190061.png" alt="Intelliji circle logo" style="height: 50px; width:50px;"/>&nbsp;
-<img src="https://icons.veryicon.com/png/System/Simply%20Styled/Eclipse.png" alt="Eclipse circle logo" style="height: 50px; width:50px;"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL circle logo" style="height: 50px; width:50px;"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VScode logo" style="height: 45px; width:45px;"/>&nbsp;
-          
+| Categoria | Tecnologias |
+|---|---|
+| **Linguagens** | Java 17+, Kotlin, TypeScript |
+| **Frameworks** | Spring Boot 3, Spring Data JPA, Spring Security, Angular |
+| **APIs** | REST, JWT (RSA), OAuth2/OIDC, Swagger/OpenAPI |
+| **Banco de Dados** | PostgreSQL, SQL Server |
+| **DevOps & Cloud** | Docker, GCP, Git, Maven, Gradle |
+| **Testes** | JUnit 5, Mockito |
+| **Mobile** | Android SDK (Java/Kotlin nativo) |
 
+---
 
-&nbsp;
-&nbsp;
+## 🚀 Projetos para Avaliação Técnica
 
-## Conecte-se comigo
+> Projetos pessoais desenvolvidos para demonstrar boas práticas, arquitetura limpa e domínio técnico. Cada repositório contém README detalhado com instruções de execução.
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/imarcosvinicius)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:imarcosvinicius@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/imarcosvinicius/)
-   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+### 📌 [MedClinic - Sistema de Gestão de Clínica Médica - Em desenvolvimento](https://github.com/imarcosvinicius/MedClinic)
+<!-- Substitua pelo link e descrição reais -->
+**Descrição:** Aplicação backend para gerenciamento de clínicas médicas, focada no agendamento de consultas, gestão de pacientes e organização
+  administrativa, desenvolvida para demonstrar padrões de código robustos e prontidão para ambientes corporativos.
+
+**Destaques técnicos:**
+- Tecnologias: `Java 17` `Spring Boot 3.5` `PostgreSQL` `Maven` `Lombok` `Spring Data JPA`
+- Padrões: Repository Pattern, MVC (Spring Web), Validação de Dados (Bean Validation)
+- Gestão de Ambiente: Configuração via variáveis de ambiente utilizando .env (spring-dotenv)
+- Documentação com Swagger/OpenAPI
+- Testes unitários com JUnit 5 e Mockito
+
+---
+
+### 📌 [Axion Gestão & Ação - Em desenvolvimento](https://github.com/evvosoftware)
+<!-- Substitua pelo link e descrição reais -->
+**Descrição:** Backend robusto para o ecossistema Axion, focado em gestão empresarial (ERP). Desenvolvido com uma arquitetura modular e
+  escalável, o projeto centraliza a gestão de usuários, empresas e autenticação, utilizando práticas modernas de desenvolvimento para garantir
+  performance e segurança.
+
+**Destaques técnicos:**
+- Tecnologias: `Kotlin` `Spring Boot 3.5.7` `PostgreSQL` `Java 21` `Spring Security` `Spring Data JPA` `Gradle-KTS`
+- Generic Repository Pattern com Soft Delete: Implementação customizada de um repositório base que sobrescreve o comportamento padrão do
+  JPA para suportar exclusão lógica (soft delete) de forma transparente, mantendo a integridade histórica dos dados.
+- OAuth2/OIDC para autenticação: Segurança baseada em tokens JWT utilizando Spring Security e OAuth2 Resource Server, com suporte a
+  criptografia RSA para assinatura de tokens.
+- UUIDv7 para indexação: Uso de UUID v7 (Time-based), garantindo unicidade global e mantendo a ordenação cronológica nos índices do banco
+  de dados, o que otimiza a performance de inserção e busca em comparação ao UUID v4.
+- Auditoria Automática: Rastreabilidade completa de criação e modificação de registros através de Spring Data Envers/Auditing (createdAt,
+  updatedAt, createdBy).
+
+---
+
+### 📌 [Berrante Software Pecuário](https://berrantepecuariamoderna.com.br)
+<!-- Substitua pelo link e descrição reais -->
+**Descrição:** Software de gestão pecuária que conta com o coletor(App Android) e o gesto(Página Web), coletor faz a coleta no campo gerando dados e o gestor gerencia o que foi feito analisando os dados e usa os dados gerados para toma de descisão...
+
+**Destaques técnicos:**
+- Tecnologias: `Java` `Kotlin` `Android SDK` `JavaServer Faces (JSF)` `HTML` `CSS` `TypeScript` `PostgreSQL` `GCP`
+- Migração de JSF para Angular
+- Otimizações de relatórios usando HQL
+- Criações de novos relatórios
+- Features tanto para Gestor Web e App Android
+- Integração com banco relacional via JPA/Hibernate
+
+---
+
+## 💼 Experiência Profissional
+
+| Período | Cargo | Empresa |
+|---|---|---|
+| jun/2025 – atual | Co-fundador & Arquiteto de Software | Evvo Software *(em desenvolvimento)* |
+| dez/2023 – fev/2026 | Desenvolvedor Java / Mobile | Berrante - Pecuária Moderna |
+| jan/2021 – jul/2023 | Analista de Sistemas — SAP Business One | Rennova |
+| mai/2019 – nov/2019 | Técnico de informática | Sol da Terra |
+| set/2017 – jan/2019 | Assistente de TI | Hospital Hemolabor |
+
+---
+
+## 📫 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imarcosvinicius@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imarcosvinicius)
