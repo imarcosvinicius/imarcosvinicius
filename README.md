@@ -28,7 +28,7 @@ Atualmente sou **Co-fundador & Arquiteto de Software** na [Evvo Software](https:
 
 > Projetos pessoais desenvolvidos para demonstrar boas práticas, arquitetura limpa e domínio técnico. Cada repositório contém README detalhado com instruções de execução.
 
-### 📌 [MedClinic - Sistema de Gestão de Clínica Médica - Em desenvolvimento](https://github.com/imarcosvinicius/MedClinic)
+### 📌 [MedClinic - Sistema de Gestão de Clínica Médica - Em desenvolvimento](https://github.com/imarcosvinicius/med-clinic)
 <!-- Substitua pelo link e descrição reais -->
 **Descrição:** Aplicação backend para gerenciamento de clínicas médicas, focada no agendamento de consultas, gestão de pacientes e organização
   administrativa, desenvolvida para demonstrar padrões de código robustos e prontidão para ambientes corporativos.
